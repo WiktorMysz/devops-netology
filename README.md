@@ -1,4 +1,5 @@
 # Репозиторий для домашних заданий по курсу DevOps
+# [Дипломный проект](https://github.com/WiktorMysz/devops-netology/tree/main/diplom)
 ###### 9.2  
 ## ДЗ 9.2  
 #### CI\CD, Знакомоство с SonarQube.  
